@@ -16,20 +16,20 @@ Here's what this looks like in practice. Imagine a client who has signed up for 
 
 >Then you'll put that thought down and bring your focus back to your breath. And then you'll be calm again.
 
-**[Momentum: explain the basics of methodology so that the client knows what's coming.]**
+>**[Momentum: explain the basics of methodology so that the client knows what's coming.]**
+>
+>To set expectations, I follow the guidelines of Coach.me's Momentum Methodology, which is to focus on consistency >first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your >progress.
+>
+>**[Next Action: suggest a potential first exercise, but be open to the client's feedback because you may not have >all of the information yet.]**
 
-To set expectations, I follow the guidelines of Coach.me's Momentum Methodology, which is to focus on consistency first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your progress.
+>First, our focus will be to build a regular practice that you can do daily or at least multiple times per week.
 
-**[Next Action: suggest a potential first exercise, but be open to the client's feedback because you may not have all of the information yet.]**
+>What is your experience with meditation? Have you ever meditated before? How did it go? Do you have an idea about >when and where you want to meditate? How many times per week do you want to meditate?
 
-First, our focus will be to build a regular practice that you can do daily or at least multiple times per week.
-
-What is your experience with meditation? Have you ever meditated before? How did it go? Do you have an idea about when and where you want to meditate? How many times per week do you want to meditate?
-
-Without knowing your experience with meditation, I would suggest something very small and simple. Here's a great minimal practice that you can do no matter experience or time pressure:
-
-Sit down. Close your eyes. Take five deep breaths.
-
-That might sound trivial, but if you can do that multiple times per week, then you're going to be able to expand that into a serious meditation practice.
-
+>Without knowing your experience with meditation, I would suggest something very small and simple. Here's a great >minimal practice that you can do no matter experience or time pressure:
+>
+>Sit down. Close your eyes. Take five deep breaths.
+>
+>That might sound trivial, but if you can do that multiple times per week, then you're going to be able to expand >that into a serious meditation practice.
+>
 >If that exercise doesn't feel right, or you have something else in mind, let me know and we can talk though it."
