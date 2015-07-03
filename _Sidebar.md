@@ -5,11 +5,6 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 ## Fundamental Skills
 
 * Active Listening
-The First Response
-Make Connections
-Show Appreciation
-Explicitly Summarize
-Take Notes
 * Setting Expectations
 * Spotlighting
 
