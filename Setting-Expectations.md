@@ -13,7 +13,7 @@ This probably seems really obvious to people—but it’s a problem endemic to c
 
 Below we’ve broken out the most common situations that call for clear communication. Many of these involve setting expectations and boundaries. It’s your right to set your own work hours and services. It’s your client’s responsibility to exercise “The Law of Two Feet,” meaning that it's their responsibility to leave if a coach isn’t right for them.
 
-**Situation #1: Setting expectations in the initial conversations**
+# Situation #1: Setting expectations in the initial conversations
 
 Initial conversations are where you can establish the answers to the questions that all your clients have:
 
@@ -31,7 +31,7 @@ Here’s an example of what that might look like; this could be part of your aut
 
 >I'll offer you encouragement and support and work to keep you motivated and on track, but ultimately you are responsible for your success. I'm in touch every day and will be in the chat area at 11am EST Monday through Saturday. Sundays I'll answer questions only. Ready to start?
 
-**Situation 2: Handling time away and vacations**
+# Situation 2: Handling time away and vacations
 
 Coaches are allowed to take days off as long as this doesn’t become a chronic pattern. Your responsibility is simply to communicate this to your clients and make sure the client is prepared to take care of themselves while you’re away. That means letting them know a few days ahead of time when possible. 
 
@@ -50,7 +50,7 @@ Here's an example of a message that you can send to your clients:
 
 >Good morning! A bit of planning to share with you first: I'm going on vacation next week. I'll be leaving Sunday, March 31 and will be out until I return on Monday, April 8. Coach.me is going to apply a coupon to your account so you'll get a free week on your next invoice. You won't hear anything from me during that time, but please continue to check in and leave any notes or questions here in chat for me—I'll review them and get back to you when I return!
 
-Situation 3: You want to stop coaching your client
+# Situation 3: You want to stop coaching your client
 
 There are three reasons you might want to cancel a client: you don’t have chemistry with this client, the client is asking for medical or therapeutic help, or you want to stop coaching altogether. 
 
