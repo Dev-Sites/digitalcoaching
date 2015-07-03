@@ -32,4 +32,4 @@ Sit down. Close your eyes. Take five deep breaths.
 
 That might sound trivial, but if you can do that multiple times per week, then you're going to be able to expand that into a serious meditation practice.
 
-If that exercise doesn't feel right, or you have something else in mind, let me know and we can talk though it."
+>If that exercise doesn't feel right, or you have something else in mind, let me know and we can talk though it."
