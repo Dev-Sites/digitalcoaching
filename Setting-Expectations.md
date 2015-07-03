@@ -52,9 +52,12 @@ Here's an example of a message that you can send to your clients:
 
 # Situation 3: You want to stop coaching your client
 
-There are three reasons you might want to cancel a client: you don’t have chemistry with this client, the client is asking for medical or therapeutic help, or you want to stop coaching altogether. 
+There are three reasons you might want to cancel a client: 
+* You don’t have chemistry with this client
+* You want to stop coaching altogether. 
+* The client is asking for medical or therapeutic help
 
-If your client is asking for medical or theraputic help, it's your responsibility to recognize that you and the Coach.me format are not an appropriate solution. Issues like depression and suicide are scary and need to be treated seriously. Go here for the response protocol in these situations and to find templates we've already created for you to use.  
+*If your client is asking for medical or theraputic help, it's your responsibility to recognize that you and the Coach.me format are not an appropriate solution.* Issues like depression and suicide are scary and need to be treated seriously. Go here for the response protocol in these situations and to find templates we've already created for you to use.  
 
 In most cases where a coach wants to cancel a client over chemistry issues, the client is coming with unreasonable expectations. In this case it is best to recommend them to Coach.me support, where we can say more clearly whether any coach in our system would meet those expectations. This isn’t a moment to argue or win a point (for example if the client has been rude or unreasonable). Just be clear and repeat yourself if necessary. Here's what you can say:
 
