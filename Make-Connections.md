@@ -1,4 +1,4 @@
-Clients don’t automatically know why you’re asking a question or giving advice. Here are two examples of how to ask a question and give advice while taking the time to connect back to something the client has already shared.
+Connect your question or advice to something the client has said. Clients don’t automatically know why you’re asking a question or giving advice. Here are two examples of how to ask a question and give advice while taking the time to connect back to something the client has already shared.
 
 Here's an example:
 
