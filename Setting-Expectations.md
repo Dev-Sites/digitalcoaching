@@ -50,3 +50,16 @@ Here's an example of a message that you can send to your clients:
 
 >Good morning! A bit of planning to share with you first: I'm going on vacation next week. I'll be leaving Sunday, March 31 and will be out until I return on Monday, April 8. Coach.me is going to apply a coupon to your account so you'll get a free week on your next invoice. You won't hear anything from me during that time, but please continue to check in and leave any notes or questions here in chat for me—I'll review them and get back to you when I return!
 
+Situation 3: You want to stop coaching your client
+
+There are three reasons you might want to cancel a client: you don’t have chemistry with this client, the client is asking for medical or therapeutic help, or you want to stop coaching altogether. 
+
+If your client is asking for medical or theraputic help, it's your responsibility to recognize that you and the Coach.me format are not an appropriate solution. Issues like depression and suicide are scary and need to be treated seriously. Go here for the response protocol in these situations and to find templates we've already created for you to use.  
+
+In most cases where a coach wants to cancel a client over chemistry issues, the client is coming with unreasonable expectations. In this case it is best to recommend them to Coach.me support, where we can say more clearly whether any coach in our system would meet those expectations. This isn’t a moment to argue or win a point (for example if the client has been rude or unreasonable). Just be clear and repeat yourself if necessary. Here's what you can say:
+
+>Hi <Client>—Thank you for sharing your expectations with me. I need to let you know that I’m not the right coach for you. <Give reason if possible>. Here’s how to cancel coaching with me: http://support.coach.me/article/25-cancel. After you’ve done that, the Coach.me team can give you a recommendation for a coach that would be a better fit. Their email is: feedback@coach.me. 
+
+Lastly, if you want to stop coaching altogether, please say something rather than just disappearing. First of all, email us at coaching@coach.me so that we can make sure all of your clients get canceled. Then send a message like the following to your clients.
+
+>Hi <Client>—I need to let you know that there are some personal changes coming up for me, and I'm going to need to end our coaching engagement. I'd love for you to go ahead and choose another coach to work with.  Here's all the information you need about how to switch coaches, and you'll get the first week with your new coach for free:  http://support.coach.me/article/48-switch-coach  It's been wonderful to work with you and see your progress; best of luck on your continued journey!
