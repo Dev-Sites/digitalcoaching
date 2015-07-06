@@ -16,16 +16,16 @@ We follow a coaching methodology based on momentum.
 
 ## The Four Phases of Momentum
 
-## Phase 1: Assessment
+### Phase 1: Assessment
 Start with Assessment. What is the person's larger goal and why? What do they expect from their coach? You need this assessment in order to identify and initial practice and to be able to personalize your coaching. 
 
-## Phase 2: Habituation
+### Phase 2: Habituation
 Use the assessment to move on to Habituation. Find a regular practice that will support your client's larger goal. Then focus on building consistency. 
 
-## Phase 3: Growth
+### Phase 3: Growth
 Once there is consistency, you can work on Growth. This where you can expand the difficulty of the practice, build skills, identify and solve challenges, and introduce optimizations.
 
-## Phase 4: Graduation
+### Phase 4: Graduation
 4. You and your client should look for Graduation milestones where you can re-assess and either end the coaching relationship or restart the momentum cycle based on what you and your client learned the first time through. It's much better to do multiple trips through the Momentum Cycle than it is to be bogged down in one phase.
 
 ![Four phases of momentum: goal discovery, habituation, growth, graduation](http://d33v4339jhl8k0.cloudfront.net/docs/assets/543d8c07e4b008d4ba040909/images/555a6092e4b01a224b424cc4/file-ZvpVjBEA0e.jpg)
