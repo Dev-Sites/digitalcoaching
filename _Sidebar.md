@@ -27,7 +27,7 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 ## Scripts
 
 * Introductions
-* Disengaged Users
+* [Disengaged Clients]((https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients))
 * Out of scope: medical, legal & psychological advice.
 
 ## Specialties
