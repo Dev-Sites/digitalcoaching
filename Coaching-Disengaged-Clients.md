@@ -26,11 +26,11 @@ All you're doing is reminding them that you're here to help. These don't show yo
 
 In any momentum methodology, for example BJ Fogg's Tiny Habits, the goal of a coach is to aggressively search for a tiny task that can be done successfully and repeatedly. Your disengaged client is not making any progress, so even tiny steps are an improvement.
 
->"I'm worried about you setting the bar too high and then not being able to check in on a daily basis. To be able to improve you need to be able to generate momentum. Here are some suggestions of things you could do today: <insert tiny steps>. Do any of those feel appropriate?" _[Remember: when you give advice, it's important to check with your client on whether that advice was well received.]_
+>"I'm worried about you setting the bar too high and then not being able to check in on a daily basis. To be able to improve you need to be able to generate momentum. Here are some suggestions of things you could do today: _[insert tiny steps]_. Do any of those feel appropriate?" _[Remember: when you give advice, it's important to check with your client on whether that advice was well received.]_
 
 >"I'd like to introduce you to a concept called Tiny Habits. It comes from BJ Fogg, a researcher at Stanford. The idea is to reduce your habit to the smallest possible step and then build on top of there. Essentially, he stresses consistency first. Would you be open to some suggestions about turning this goal into a Tiny Habit?"
 
->"When I first started coaching, the Coach.me founder gave a talk about what he called The Momentum Method. In order to get momentum, you need to find some place to start. Usually that first step can be very small, like <insert examples>. Do you have any ideas for generating momentum for yourself?"
+>"When I first started coaching, the Coach.me founder gave a talk about what he called The Momentum Method. In order to get momentum, you need to find some place to start. Usually that first step can be very small, like _[insert examples]_. Do you have any ideas for generating momentum for yourself?"
 
 ### Planning Prompts
 
