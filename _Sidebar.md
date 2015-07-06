@@ -15,7 +15,7 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 * [Building the habit](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
 * [Growth](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
 * [Graduation](https://github.com/coachdotme/digitalcoaching/wiki/Graduation)
-* [Coaching Disengaged Clients](https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients)
+* [Disengaged Clients](https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients)
 
 ## Tactics
 
