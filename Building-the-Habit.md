@@ -8,11 +8,11 @@ In most cases, you should be able to identify and jump right to a regular practi
 
 Below is an example response to a client who had the goal to finish their dissertation. They thought they were struggling with procrastination and "just can't focus on writing for 8 hours at a time."  
 
-This is what I'm hearing. You want to write every day in order to make faster progress on your dissertation. When you try to spend 8 hours writing, you feel like you mostly end up procrastinating. Is that right?
+>This is what I'm hearing. You want to write every day in order to make faster progress on your dissertation. When you try to spend 8 hours writing, you feel like you mostly end up procrastinating. Is that right?
 
-So, the way I work is to use a momentum based methodology. The idea is to focus on consistency first so that we can build momentum. And then once their is consistency, we can work on quality and quantity. In your case that second phase would be how long do you write, how you feel about the quality of the writing, and (maybe) how many words did you write. But for now, let's just work on consistency.
+>So, the way I work is to use a momentum based methodology. The idea is to focus on consistency first so that we can build momentum. And then once their is consistency, we can work on quality and quantity. In your case that second phase would be how long do you write, how you feel about the quality of the writing, and (maybe) how many words did you write. But for now, let's just work on consistency.
 
-For tomorrow, what do you think about really focusing on sitting down and getting right to work? Can you time yourself and tell me how long it takes between the time you sit down at your desk and the time you've finished writing your first sentence?
+>For tomorrow, what do you think about really focusing on sitting down and getting right to work? Can you time yourself and tell me how long it takes between the time you sit down at your desk and the time you've finished writing your first sentence?
 
 Notice the above response also makes active use of active listening techniques, using exact words and phrases from the client's last message.
 
