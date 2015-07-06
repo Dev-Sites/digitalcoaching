@@ -19,16 +19,17 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 
 ## Tactics
 
-* Personas
-* Environmental Design
+* [Personas](https://github.com/coachdotme/digitalcoaching/wiki/Personas)
+* [Environmental Design](https://github.com/coachdotme/digitalcoaching/wiki/Environmental-Design)
 * [Deliberate Practice](https://github.com/coachdotme/digitalcoaching/wiki/Deliberate-Practice)
-* Motivation
+* [Motivation](https://github.com/coachdotme/digitalcoaching/wiki/Motivational-Strategies)
+* [Tips from Top Coaches](https://github.com/coachdotme/digitalcoaching/wiki/Tips-from-Top-Coaches)
 
 ## Scripts
 
 * Introductions
 * [Disengaged Clients]((https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients))
-* Out of scope: medical, legal & psychological advice.
+* [Out of scope: medical, legal & psychological advice](https://github.com/coachdotme/digitalcoaching/wiki/Out-of-Scope:-medical,-legal-&-psychological-advice)
 
 ## Specialties
 
