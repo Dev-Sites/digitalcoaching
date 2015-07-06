@@ -26,6 +26,8 @@ Here are the top ten tips featured in the training video:
 
 ### Suggested Resources:
 
-* To learn how to communicate more clearly, watch [this 15 minute video](https://www.youtube.com/watch?v=PuJgqTs-G44) by Crucial Conversations author Joseph Grenny
+* To learn how to communicate more clearly, watch [this 15 minute video](https://www.youtube.com/watch?v=PuJgqTs-G44) by _Crucial Conversations_ author Joseph Grenny
+
 * To learn how to ask great questions, read [this article](http://www.mindtools.com/pages/article/newTMC_85.htm) on the concept of Appreciative Inquiry.
+
 * To learn about Behavior Design, watch [this 15 minute talk](https://www.youtube.com/watch?v=OMbsGBlpP30 ) by Charles Duhigg, author of _The Power of Habit_
