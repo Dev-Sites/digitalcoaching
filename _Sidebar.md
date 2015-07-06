@@ -10,9 +10,9 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 
 ## Phases
 
-* Introduction
-* Assessment -> First Action
-* Building the habit
+* [Introduction to the Momentum Method](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
+* [Assessment -> First Action](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
+* [Building the habit](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
 * Growth
 * Graduation
 * AWOL
@@ -21,7 +21,7 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 
 * Personas
 * Environmental Design
-* Deliberate Practice
+* [Deliberate Practice](https://github.com/coachdotme/digitalcoaching/wiki/Deliberate-Practice)
 * Motivation
 
 ## Scripts
