@@ -9,5 +9,7 @@ Together you can design your client’s environment so that they are constantly 
 Here are common things to look for in the environment:
 
 * **Temptations:** For example, remove candy from the house of someone trying to eat healthier.
+
 * **Triggers:** Put a note on your door, "Did you remember your wallet?"
+
 * **Requirements:** To work out, you need workout clothes. To ride a bike, you need a bike.
