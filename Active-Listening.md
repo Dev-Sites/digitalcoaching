@@ -1,4 +1,4 @@
-This is the most important strategy and habit for digital coaching.
+This is the most important fundamental skill for digital coaching.
 
 Active listening lets your client know that they're being heard and that they're not just getting boilerplate copy-and-paste from you. This can be especially important to connect the dots between what the client is telling you and what you're advising them to do.
 
