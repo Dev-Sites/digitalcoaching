@@ -28,10 +28,10 @@ Here is a welcome message from a coach that contains a simple assessment in orde
 
 These are related skills and strategies we'll talk about in the training. You may have already learned the first one.
 
-**1. Active listening** 
+**#1. Active listening** 
 It is crucial that you summarize and repeat back your client's goal so that they know you are paying attention. More here: http://training.coach.me/article/148-patterns-for-active-listening
 
-**2. Personas** 
+**#2. Personas** 
 You can go as far as offering a personality test in order to learn how you should personalize your approach. More here: http://training.coach.me/article/163-persona-identification
 
 The Assessment phase normally only lasts one or two days. Any longer and the clients tend to wonder, "When does the coaching start?"
