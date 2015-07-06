@@ -18,6 +18,3 @@ Here are templates for specific situations:
 
 >I can continue to coach you on other goals, I’m just not allowed to discuss suicide or depression beyond the above."
 
->As the text says, this is not a suggestion but a requirement that we have for all coaches when serious issues like suicide come up. More info is here under section 4.
-
-
