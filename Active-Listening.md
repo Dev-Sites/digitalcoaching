@@ -26,9 +26,9 @@ The first time you hear from a client is when they sign up and respond to your w
 
 * **Use the 4 R's:** Repeat, restate, reframe, and relate to what the client has said. You need to show them that you heard them. That way they know that all of your future coaching is personal to them and also that it's worth answering your questions. Most commonly, coaches screw this up by responding immediately with more questions or direct advice.
 
-* **Your methodology:** Now that you've done an initial assessment, let the client know where the coaching is going to go. This gives context for whatever next step you give in part C. Most commonly, you'll be using our Momentum Method as a guide, so say something like, "I follow the guidelines of Coach.me's Momentum Methodology, which is to focus on consitency first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your progress."
+* **Your methodology:** Now that you've done an initial assessment, let the client know where the coaching is going to go. This gives context for whatever next step you give in part C. Most commonly, you'll be using our Momentum Framework as a guide, so say something like, "I follow the guidelines of Coach.me's Momentum Framework, which is to focus on consistency first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your progress."
 
-* **Next step:** This could be more questions or a specific exercise that relates to the methodology you describe. In Momentum Method, you'll be turning a goal into a consistent habit.
+* **Next step:** This could be more questions or a specific exercise that relates to the methodology you describe. In Momentum Framework, you'll be turning a goal into a consistent habit.
 
 Here's what this looks like in practice. Imagine a client who has signed up for meditation and who has described a golfing situation where he has felt anxiety. This is a response that uses Active Listening:
 
@@ -42,7 +42,7 @@ Here's what this looks like in practice. Imagine a client who has signed up for 
 
 >**[Momentum: explain the basics of methodology so that the client knows what's coming.]**
 
->To set expectations, I follow the guidelines of Coach.me's Momentum Methodology, which is to focus on consistency first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your progress.
+>To set expectations, I follow the guidelines of Coach.me's Momentum Framework, which is to focus on consistency first, then grow technique/difficulty, and then find an early milestone where we can celebrate and evaluate your progress.
 
 >**[Next Action: suggest a potential first exercise, but be open to the client's feedback because you may not have all of the information yet.]**
 
