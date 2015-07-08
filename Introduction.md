@@ -12,9 +12,9 @@ Focusing on consistency has the following benefits:
 
 After you've built consistency, you'll have plenty of opportunity to build skill. Just remember: consistency first, skills second.
 
-We follow a coaching methodology based on momentum.
+We follow a coaching framework based on momentum.
 
-## The Four Phases of Momentum
+## The Four Phases of Momentum Framework
 
 ### Phase 1: Assessment
 Start with Assessment. What is the person's larger goal and why? What do they expect from their coach? You need this assessment in order to identify and initial practice and to be able to personalize your coaching. 
