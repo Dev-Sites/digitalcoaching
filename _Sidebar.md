@@ -27,14 +27,15 @@ Todo: Talk about why coach for habits first. Link to Momentum Methods
 
 ## Scripts
 
-* Introductions
+* [Introductions](https://github.com/coachdotme/digitalcoaching/wiki/Introductions)
 * [Disengaged Clients](https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients)
 * [Out of scope: medical, legal & psychological advice](https://github.com/coachdotme/digitalcoaching/wiki/Out-of-Scope:-medical,-legal-&-psychological-advice)
 
 ## Specialties
 
-* Time Management
-* Inbox Management
-* Meeting Management
-* Crucial Conversations
-* Work/Life Balance
+* [Time Management](https://github.com/coachdotme/digitalcoaching/wiki/Time-Management)
+* [Inbox Management](https://github.com/coachdotme/digitalcoaching/wiki/Inbox-Management)
+* [Meeting Management](https://github.com/coachdotme/digitalcoaching/wiki/Meeting-Management)
+* [Crucial Conversations](https://github.com/coachdotme/digitalcoaching/wiki/Crucial-Conversations)
+* [Strategic Thinking](https://github.com/coachdotme/digitalcoaching/wiki/Strategic-Thinking)
+* [Work/Life Balance](https://github.com/coachdotme/digitalcoaching/wiki/Work-Life-Balance)
