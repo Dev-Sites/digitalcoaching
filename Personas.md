@@ -1,6 +1,6 @@
 If you can categorize your clients into personas, you’ll have an easier time personalizing your coaching (it’s too easy to assume that people want to be coached in the same way that you would). Here are some persona’s that we’ve noticed:
 
-* **Olly Over-analyzer:** This person has made starting too hard by thinking too much, “paralysis by analysis.” You’ll spot this person because of the length of their initial answers. This method automatically breaks paralysis by forcing a minimum daily habit.
+* **Ally Analyzer:** This person has made starting too hard by thinking too much, “paralysis by analysis.” You’ll spot this person because of the length of their initial answers. This method automatically breaks paralysis by forcing a minimum daily habit.
 
 * **Robby Responsible:**  Just does what they’re supposed to do. You’ll wonder why you’re even involved. Your main job is just to manage the pace and sequencing of their work so that they are constantly improving.
 
