@@ -8,7 +8,7 @@ Your first messages should communicate:
 
 We suggest you have some templates on hand for these interactions. This doesn't mean you should send cookie-cutter responses. Templates are great because they make sure that your first responses are well thought out and cover all the important basics. Good ones are easy to customize to your client. 
 
-You should definitely review the section on [Setting Expectations}(https://github.com/coachdotme/digitalcoaching/wiki/Setting-Expectations) before drafting initial message templates. Here are templates that you can use for your initial interactions:
+You should definitely review the section on [Setting Expectations](https://github.com/coachdotme/digitalcoaching/wiki/Setting-Expectations) before drafting initial message templates. Here are templates that you can use for your initial interactions:
 
 ### Welcome Message
 
@@ -18,7 +18,7 @@ Edit your welcome message under "Coach Chat" on your coach profile edit page. Yo
 
 Here are three examples:
 
-Example, Set Priorities for Your Day
+**Example, Set Priorities for Your Day**
 
 >Thanks so much for choosing me to be your coach! It's great to connect, and I'm really looking forward to working with you. 
 
@@ -31,7 +31,7 @@ Example, Set Priorities for Your Day
 
 >Take your time to reflect with these responses, looking forward to working with you!
 
-Example, Inbox Zero
+**Example, Inbox Zero**
 
 >Awesome! That's the first step out of the way. I'll be in touch shortly to learn more about you so I can be as helpful as possible. 
 
@@ -47,7 +47,7 @@ Example, Inbox Zero
 
 >I feel very strongly that you will see tangible improvements in your life through working towards and achieving this Goal. Good luck!
 
-Example, General:
+**Example, General:**
 
 >Thank you for signing up for coaching with me.
 
@@ -64,10 +64,6 @@ Example, General:
 >5. How do you hope my coaching will help you? If you've been coached before, do you have any preferences about how I should coach you?
 
 >My goal is for you to see major results within two weeks. I'll use your answers to the questions above to explain the process for getting there.
-
-###
-
-First Response
 
 ### The First Response
 
