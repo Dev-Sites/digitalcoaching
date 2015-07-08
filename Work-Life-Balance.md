@@ -15,7 +15,7 @@ All habits turn out to help. Here are some of the main ones.
 * How are your energy levels at the beginning of the day and the middle of the afternoon?
 * Did any personal responsibilities come up today?
 
-Mastery Characteristics
+### Mastery Characteristics
 
 * Arrive to work healthy. That means sober, rested and fed.
 * Block off times during the week to get personal projects done: groceries, cooking, exercise, chores.
