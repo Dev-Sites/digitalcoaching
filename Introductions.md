@@ -6,7 +6,7 @@ Your first messages should communicate:
 * Clarity 
 * Care
 
-We suggest you have some templates on hand for these interactions. This doesn't mean you should send cookie-cutter responses. Templates serve as a great because they make sure that your first responses are well thought out and cover all the important basics. Good ones are easy to customize to your client. 
+We suggest you have some templates on hand for these interactions. This doesn't mean you should send cookie-cutter responses. Templates are great because they make sure that your first responses are well thought out and cover all the important basics. Good ones are easy to customize to your client. 
 
 You should definitely review the section on [Setting Expectations}(https://github.com/coachdotme/digitalcoaching/wiki/Setting-Expectations) before drafting initial message templates. Here are templates that you can use for your initial interactions:
 
