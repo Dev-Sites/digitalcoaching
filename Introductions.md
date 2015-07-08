@@ -14,7 +14,7 @@ You should definitely review the section on [Setting Expectations](https://githu
 
 Clients receive a welcome message immediately upon signing up to your coaching. Since it may take you up to 24 hours to respond depending on timezones, you'll want the welcome message to include something that engages the client, usually an assessment. The welcome message is a good place to set expectations, too: time of day that they should expect to hear from you and your coaching process. 
 
-Edit your welcome message under "Coach Chat" on your coach profile edit page. You have the option to write goal-specific welcome messages. We highly recommend you do this, especially because it lets you tailor your assessment questions to the specific goal you are coaching. 
+Edit your welcome message under "Coach Chat" by going to your [Coach Dashboard](https://www.coach.me/coaches/chat), clicking Tools, then clicking 'Edit Coach Profile'. You have the option to write goal-specific welcome messages. We highly recommend you do this, especially because it lets you tailor your assessment questions to the specific goal you are coaching. 
 
 Here are three examples:
 
