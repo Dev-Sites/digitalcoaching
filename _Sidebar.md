@@ -2,7 +2,7 @@
 
 ## Momentum Framework
 
-* [Introduction to the Momentum Framework](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
+* [Introduction](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
 * [Assessment](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
 * [Habituation](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
 * [Growth](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
