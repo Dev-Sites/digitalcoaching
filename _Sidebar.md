@@ -3,10 +3,10 @@
 ## Momentum Framework
 
 * [Introduction to the Momentum Framework](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
-* [Assessment -> First Action](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
-* [Building the habit](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
-* [Growth](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
-* [Graduation](https://github.com/coachdotme/digitalcoaching/wiki/Graduation)
+* [Assessment. What is the Goal?](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
+* [Habituation. Build the Habit.](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
+* [Growth. Increase Skill & Difficulty](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
+* [Graduation. Find & Celebrate Milestones.](https://github.com/coachdotme/digitalcoaching/wiki/Graduation)
 
 ## Fundamental Skills
 
