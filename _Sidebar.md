@@ -1,6 +1,4 @@
-## Momentum Method
-
-Todo: Talk about why coach for habits first. Link to Momentum Methods
+# Digital Coaching Resources
 
 ## Fundamental Skills
 
