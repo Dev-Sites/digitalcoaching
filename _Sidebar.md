@@ -1,19 +1,18 @@
 # Digital Coaching Resources
 
+## Momentum Framework
+
+* [Introduction to the Momentum Framework](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
+* [Assessment -> First Action](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
+* [Building the habit](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
+* [Growth](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
+* [Graduation](https://github.com/coachdotme/digitalcoaching/wiki/Graduation)
+
 ## Fundamental Skills
 
 * [Active Listening](https://github.com/coachdotme/digitalcoaching/wiki/Active-Listening)
 * [Setting Expectations](https://github.com/coachdotme/digitalcoaching/wiki/Setting-Expectations)
 * [Spotlighting](https://github.com/coachdotme/digitalcoaching/wiki/Spotlighting)
-
-## Phases
-
-* [Introduction to the Momentum Method](https://github.com/coachdotme/digitalcoaching/wiki/Introduction)
-* [Assessment -> First Action](https://github.com/coachdotme/digitalcoaching/wiki/Assessment----First-Action)
-* [Building the habit](https://github.com/coachdotme/digitalcoaching/wiki/Building-the-Habit)
-* [Growth](https://github.com/coachdotme/digitalcoaching/wiki/Growth)
-* [Graduation](https://github.com/coachdotme/digitalcoaching/wiki/Graduation)
-* [Disengaged Clients](https://github.com/coachdotme/digitalcoaching/wiki/Coaching-Disengaged-Clients)
 
 ## Tactics
 
