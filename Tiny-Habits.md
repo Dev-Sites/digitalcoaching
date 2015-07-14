@@ -1,5 +1,3 @@
-WIP: Adapting Tiny Habits for the Momentum Framework.
-
 Tiny Habits is a simple, digital-friendly certification run by BJ Fogg from Stanford. Nobody should claim to be a Tiny Habits coach unless they actually have the certification ([get it here](http://tinyhabitsacademy.org/)). 
 
 But if you do have the certification, here's what how we would apply Tiny Habits along with the rest of our Digital Coaching skills and our Momentum Framework.
