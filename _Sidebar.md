@@ -36,3 +36,7 @@
 * [Crucial Conversations](https://github.com/coachdotme/digitalcoaching/wiki/Crucial-Conversations)
 * [Strategic Thinking](https://github.com/coachdotme/digitalcoaching/wiki/Strategic-Thinking)
 * [Work/Life Balance](https://github.com/coachdotme/digitalcoaching/wiki/Work-Life-Balance)
+
+## Other Frameworks
+
+* [Tiny Habits](https://github.com/coachdotme/digitalcoaching/wiki/Tiny-Habits)
