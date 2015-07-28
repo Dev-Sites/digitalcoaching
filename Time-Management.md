@@ -19,7 +19,7 @@ A client demonstrates mastery when:
 * Their top priority is consistent with priorities of their organization.
 * Their priorities are scoped to complete within one day.
 * They reserve sufficient time to complete each priority.
-* They organizes their day so that their top priority can be worked on without interruption.
+* They organize their day so that their top priority can be worked on without interruption.
 * Their priorities do map to impact.
 * They have systems for categorizing and filing new priorities that arrive during their day. (i.e. file a bug, add to a todo list, add to a calendar — just don’t multi-task)
 * They recognize the arrival of a higher priority and adjust.
