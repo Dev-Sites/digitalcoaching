@@ -62,7 +62,8 @@ This first assessment also helps set the tone for the coaching relationship. Thi
 > To get started, I need you to answer these two questions:
 > 1. What habit will you work on? How will your life be different if you adopt this habit?
 > 2. What are existing habits that you could use as an anchor? Pick one and write it as a habit recipe.
-> By asking question #1, about the greater goal, you’re setting yourself up to personalize your later coaching. For example, once the original Tiny Habit is adopted, you’ll have the opportunity to suggest related habits.
+
+By asking question #1, about the greater goal, you’re setting yourself up to personalize your later coaching. For example, once the original Tiny Habit is adopted, you’ll have the opportunity to suggest related habits.
 
 The whole point of doing a diagnosis is so that you can personalize your coaching. The questions above aren't strictly called for by Tiny Habits, but they do give you the context to turn Tiny Habits into an ongoing coaching relationship. 
 
