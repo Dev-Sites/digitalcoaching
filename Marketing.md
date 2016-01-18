@@ -12,7 +12,7 @@ If you'd like to write for Better Humans, email betterhumans@coach.me so we can 
 
 
 **Quora**: Quora is an online information sharing platform. 
-#1. The first step to using Quora is to write 
+1) The first step to using Quora is to write. 
 
 Here's something amazing about Quora: it drives traffic for years after you write. I did a lot of writing on Quora in 2014 just for fun. I didn't have any big plans--I just wrote about things that I knew about. Apparently I wrote a lot because they gave me a Top Writer designation and sent me a Quora fleece. I think that I totaled 40 or 50 answers that year. But that's not the amazing part, this is: despite not having written in almost a year, I still get 9,000 views per month on my answers.  
 
@@ -22,13 +22,13 @@ Here's something amazing about Quora: it drives traffic for years after you writ
 
 * Mention Coach.me. This is required for steps 2 & 3. If you can work a link to Coach.me into your answer, that's ideal. If you can't, Quora lets you set question specific bios. So if you're a Meditation coach, write that in your bio: Meditation Coach on Coach.me.
 
-#2. Add your Quora answers to this form:
+2) Add your Quora answers to this form:
 
 http://bit.ly/coachquora
 
 Your answers will be shared with all of the other coaches, even ones who haven't joined yet. 
 
-#3. Give some love to the other coaches.
+3) Give some love to the other coaches
 
 Here are the answers that other coaches have submitted. As I write this, there are just two links from me, but there will be more shortly:
 http://bit.ly/coachquoralinks
