@@ -9,3 +9,5 @@ Cross promotion works through reciprocation. People are going to help promote yo
 * Feel free to be choosey about what you share on Twitter & Facebook. That's your audience. But when it comes to voting, you should be very liberal. To put it this way, I can't flood by Twitter feed with 50 tweets, but I can vote for hundreds of articles on Medium. 
 
 You can see what answers other coaches have posted on Quora here: http://bit.ly/coachquoralinks
+
+If you have links you'd like help promoting, the #marketing-tips channel is Slack is a good place to start
