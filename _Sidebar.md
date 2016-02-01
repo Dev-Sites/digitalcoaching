@@ -40,9 +40,10 @@
 ## Marketing
 
 * [Creating the best product] (https://github.com/coachdotme/digitalcoaching/wiki/Creating-the-best-product)
+* [PR] (https://github.com/coachdotme/digitalcoaching/wiki/PR)
 * [Quora] (https://github.com/coachdotme/digitalcoaching/wiki/Quora)
 * [Better Humans] (https://github.com/coachdotme/digitalcoaching/wiki/Better-Humans)
-* [PR] (https://github.com/coachdotme/digitalcoaching/wiki/PR)
+* [Cross Promotion] (https://github.com/coachdotme/digitalcoaching/wiki/Cross-Promotion)
 
 ## Other Frameworks
 
