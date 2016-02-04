@@ -17,15 +17,15 @@ But I started from such a shy place, that I know that if I can do sales, anyone 
 
 A couple things to know going in:
 
-**You're not a coach if you don't have clients. Finding clients is your job. It's not a one-time trick you do. It's a daily responsibility.
+* You're not a coach if you don't have clients. Finding clients is your job. It's not a one-time trick you do. It's a daily responsibility.
 
-**Sales is partly about volume. That's why sales scripts exist.
+* Sales is partly about volume. That's why sales scripts exist.
 
-**Use your network (people you're connected to on Facebook and LinkedIn).The script I'm going to share here is for using with people you know. 
+* Use your network (people you're connected to on Facebook and LinkedIn).The script I'm going to share here is for using with people you know. 
 
-**If you can't sell to friends, then you won't be able to sell to strangers.
+* If you can't sell to friends, then you won't be able to sell to strangers.
 
-** So this is the script everyone should be starting with.
+* So this is the script everyone should be starting with.
 
 It's three parts.
 
