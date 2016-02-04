@@ -44,12 +44,11 @@ They're my friends. They're happy to give me advice.
 
 I use the following email.
 
-> Hi <name>,
+> Hi [name],
 > 
 > I’ve recently joined a community of coaches, Coach.me because I’m starting to coach <topic> online. Do you have 30 minutes to give me some feedback on how you approach your own goals and whether you have ever considered coaching as a way to  boost your progress?
 >
-> Hope you’re well otherwise. <Submit some small talk, i.e. Saw that your son just turned 8, he’s looking so big!>
-
+> Hope you’re well otherwise. [Submit some small talk, i.e. Saw that your son just turned 8, he’s looking so big!]
 
 
 That's all the email needs to say. You don't need to convince them of anything, so you don't really need to say much.
@@ -65,64 +64,64 @@ Here's the script. I put commentary in brackets, [like this].
 
  
 
-[Get them talking about themselves. You can pitch coaching at the end.]
+> **[Get them talking about themselves. You can pitch coaching at the end.]**
 
-Thank you so much for taking the time. I’ve been doing a couple of these calls and they’ve been really helpful just to hear how people are thinking about their goals right now. Is it ok if we start with a little bit about you and then if you want, I can tell you more about what I’m up to at the end. It’s really exciting.
+> Thank you so much for taking the time. I’ve been doing a couple of these calls and they’ve been really helpful just to hear how people are thinking about their goals right now. Is it ok if we start with a little bit about you and then if you want, I can tell you more about what I’m up to at the end. It’s really exciting.
 
-[Most people won’t have articulated a top goal. Question below is worded so that they have to pick something.]
+> **[Most people won’t have articulated a top goal. Question below is worded so that they have to pick something.]**
 
-Great. First question. If you had to share your top goal right now, what would you pick?
+> Great. First question. If you had to share your top goal right now, what would you pick?
 
-[Almost always they’ll give a general goal.]
+> **[Almost always they’ll give a general goal.]**
 
-That’s great. Can you be more specific? What does success look like? What does it take for you to get there?
+> That’s great. Can you be more specific? What does success look like? What does it take for you to get there?
 
-[Now that they’re warmed up, get them to offer more goals.]
+> **[Now that they’re warmed up, get them to offer more goals.]**
 
-That’s a great example of a goal. Can you think of any other goals you might have, for example in terms of eating, exercise, productivity, relationships, or work?
+> That’s a great example of a goal. Can you think of any other goals you might have, for example in terms of eating, exercise, productivity, relationships, or work?
 
-[Now get them thinking historically]
+> **[Now get them thinking historically]**
 
-How about in the past. Can you think of the last major goal you set for yourself? It could be a New Year resolution or a goal at work or something you were working on in your relationship. What was that goal and how did it turn out?
+> How about in the past. Can you think of the last major goal you set for yourself? It could be a New Year resolution or a goal at work or something you were working on in your relationship. What was that goal and how did it turn out?
 
-[Get them thinking about solutions]
+> **[Get them thinking about solutions]**
 
-When you set a goal for yourself, do you have an easy time following through or do you feel like you need help with accountability? Do you have any tricks of your own?
+> When you set a goal for yourself, do you have an easy time following through or do you feel like you need help with accountability? Do you have any tricks of your own?
 
-[Now get them thinking about coaches]
+> **[Now get them thinking about coaches]**
 
-Have you ever had someone in your life that played a coach role? For example, a sports coach growing up, a really good manager, or even a time when your parents really helped?
+> Have you ever had someone in your life that played a coach role? For example, a sports coach growing up, a really good manager, or even a time when your parents really helped?
 
-[Have them examine the coaching relationship]
+> **[Have them examine the coaching relationship]**
 
-What did you like or not like about this relationship?
+> What did you like or not like about this relationship?
 
-[Start investigating their willingness to try a coach]
+> **[Start investigating their willingness to try a coach]**
 
-If you were to consider working with a coach again, what goal would you work on and what would be most important about the coach?
+> If you were to consider working with a coach again, what goal would you work on and what would be most important about the coach?
 
-[Now, get their feedback about you]
+> **[Now, get their feedback about you]**
 
-I’ve been coaching <topic>. The reason I coach this topic is because of my experience <share experience>. I’ve helped people <share a success story>. When you hear that I’m coaching people in X, what questions come to mind?
+> I’ve been coaching <topic>. The reason I coach this topic is because of my experience <share experience>. I’ve helped people <share a success story>. When you hear that I’m coaching people in X, what questions come to mind?
 
-[Answer their questions, except for price.]
+> **[Answer their questions, except for price.]**
 
-[Now, price.]
+> **[Now, price.]**
 
-I have a price for my coaching. But I’m curious what people’s expectations are. Based on what you’ve heard so far, what do you think I’d charge on a monthly basis?
+> I have a price for my coaching. But I’m curious what people’s expectations are. Based on what you’ve heard so far, what do you think I’d charge on a monthly basis?
 
-[Now it’s time to close them. There are three options and you need to use your judgement. The three options are below, A, B & C]
+> **[Now it’s time to close them. There are three options and you need to use your judgement. The three options are below, A, B & C]**
 
-[A. If they are not excited by now about the idea of coaching then thank them profusely for their time. ABSOLUTELY DO NOT TRY TO SELL THEM PERSONAL COACHING. They are your friend and you don’t want to burn the relationship. Instead, ask:]
+> [A. If they are not excited by now about the idea of coaching then thank them profusely for their time. ABSOLUTELY DO NOT TRY TO SELL THEM PERSONAL COACHING. They are your friend and you don’t want to burn the relationship. Instead, ask:]
 
-Thank you so much for your time. Your feedback was incredibly useful. One last question. If you had to pick one person in your life who would be most likely to choose coaching who would you pick? Why? Would you be willing to make an introduction?
+> Thank you so much for your time. Your feedback was incredibly useful. One last question. If you had to pick one person in your life who would be most likely to choose coaching who would you pick? Why? Would you be willing to make an introduction?
 
-[B. They are excited for coaching, but not on a topic where you are the right coach.]
+> **[B. They are excited for coaching, but not on a topic where you are the right coach.]**
 
-I happen to know a bunch of the Coach.me coaches who specialize in X. Do you have an interest in getting an introduction to one of them?
+> I happen to know a bunch of the Coach.me coaches who specialize in X. Do you have an interest in getting an introduction to one of them?
 
-[If the answer is yes, find a coach through #looking-for-a-coach in Slack. Then send the link with your referral code to your friend. Ideally, you should do this on the same day that you talked to your friend—they’re all hyped up and ready to do work.]
+> **[If the answer is yes, find a coach through #looking-for-a-coach in Slack. Then send the link with your referral code to your friend. Ideally, you should do this on the same day that you talked to your friend—they’re all hyped up and ready to do work.]**
 
-[C. They are excited for coaching and you are the right coach for them.]
+> **[C. They are excited for coaching and you are the right coach for them.]**
 
-This goal you have is something that I specialize in. Would you consider using me as a coach?
+> This goal you have is something that I specialize in. Would you consider using me as a coach?
