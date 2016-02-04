@@ -17,9 +17,7 @@ When creating a media target list, start by compiling a list of your local media
 
 Once you’ve come up with a target list:
 
-Do a quick search on the site to find out if a story has been written about Coach.me (you should also search “Lift app” and “Tony Stubblebine.” If an article has been written or Tony has appeared as a guest, that doesn’t mean you can’t pitch the outlet again - just make sure to reference the previous piece to show you’ve done your homework and talk about why your perspective is different. 
-
-2.   Ask yourself if you know anyone at the publication or if you know someone who has been interviewed by the journalist. If you do know a journalist, email or call them to find out who the best person would be at the outlet for you to pitch your story. For example, if you know a sports writer at the Fresno Bee, get in touch. If your friend is willing to do an introduction to the right reporter, that would be best. Second best would be to use that person’s name in your subject line, such as “Mark Swann referral: Intro to Coach.me.”  If you know someone who has been interviewed by a reporter or podcast host, you can ask them for an introduction or permission to use their name as a referral.
+Ask yourself if you know anyone at the publication or if you know someone who has been interviewed by the journalist. If you do know a journalist, email or call them to find out who the best person would be at the outlet for you to pitch your story. For example, if you know a sports writer at the Fresno Bee, get in touch. If your friend is willing to do an introduction to the right reporter, that would be best. Second best would be to use that person’s name in your subject line, such as “Mark Swann referral: Intro to Coach.me.”  If you know someone who has been interviewed by a reporter or podcast host, you can ask them for an introduction or permission to use their name as a referral.
 
 
 Once you’ve identified a target outlet, the next step is to find the right person to pitch. This takes some good old-fashioned research. At a daily newspaper, look for a beat reporter in your area of expertise (if you are a fitness coach, go to the publication’s web site and look for a health/lifestyle reporter, if you’re a productivity coach, a business columnist might be the best match). Weekly papers don’t have staff that is as specialized, so look for someone who writes profiles of local businesspeople or human interest pieces. For podcasts, the founder/host is the best person to reach out to, unless the web site directs you to a producer.
@@ -59,15 +57,15 @@ Once a journalist opens your mail, you have just a few lines to hook them into r
  
 For example, here is the opening to a pitch to a productivity podcast host:
 
-Hello Hal,
+> Hello Hal,
 
-I'm writing to introduce you to Tony Stubblebine, the founder of Coach.me (formerly Lift), who I think would be a great guest for the Achieve Your Goals podcast. Featured last month as a Best New App by Apple, Coach.me has helped hundreds of thousands of people achieve goals ranging from productivity to fitness to stopping drinking to meditation. 
+> I'm writing to introduce you to Tony Stubblebine, the founder of Coach.me, who I think would be a great guest for the Achieve Your Goals podcast. Featured last month as a Best New App by Apple, Coach.me has helped millions of people achieve goals ranging from productivity to fitness to stopping drinking to meditation. 
 
 Here is an example of a pitch to a site helping people in recovery:
 
-Hello Tim,
+> Hello Tim,
 
-I'm writing to introduce you to Cecily Kellogg, a Philadelphia-based digital writer who is also one of the most popular sobriety coaches on Coach.me (featured this month as a Top New App by Apple). Herself sober for 19 years, Cecily has helped dozens of clients work on reducing or stopping drinking, while other coaches work with clients whose goals range from curbing addictions (no drugs, no porn, no sugar, etc.) to productivity to fitness to meditation. I think your Sober Nation readers would be interested in her story and how Coach.me is helping people get and stay sober.
+> I'm writing to introduce you to Cecily Kellogg, a Philadelphia-based digital writer who is also one of the most popular sobriety coaches on Coach.me (featured this month as a Top New App by Apple). Herself sober for 19 years, Cecily has helped dozens of clients work on reducing or stopping drinking, while other coaches work with clients whose goals range from curbing addictions (no drugs, no porn, no sugar, etc.) to productivity to fitness to meditation. I think your Sober Nation readers would be interested in her story and how Coach.me is helping people get and stay sober.
  
 You can also include a one-line story or statistic as a hook. If you are pitching a local paper or business journal, be sure to let the reporter know where you are from.
 
@@ -93,69 +91,69 @@ Here are several examples of pitch letters that resulted in interest from journa
 Pitch to the Cleveland Plain Dealer’s tech columnist
 Subject: Coach.me - Apple app of the week's Cleveland connection
 
-Hello Michael,
+> Hello Michael,
 
-I'm writing to introduce you to Coach.me, which is being featured this week as a Top New App by Apple, and to Rob Kovacs, a Cleveland-based musician who is one of the most popular coaches on the site.
+> I'm writing to introduce you to Coach.me, which is being featured this week as a Top New App by Apple, and to Rob Kovacs, a Cleveland-based musician who is one of the most popular coaches on the site.
 
-Forming new habits is hard to do in isolation - Coach.me (backed by Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for $14.99 a week, choose one-on-one coaching. Coach.me has helped hundreds of thousands of people achieve goals ranging from productivity to fitness to stopping drinking to meditation. 
+> Forming new habits is hard to do in isolation - Coach.me (backed by Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for 4.99 a week, choose one-on-one coaching. Coach.me has helped hundreds of thousands of people achieve goals ranging from productivity to fitness to stopping drinking to meditation. 
 
-Rob has a fascinating back story - several years ago, he developed arthritis throughout his body, including his hands. As a pianist, this was threatening his career. After a year of research, he was able to regain his health through diet and exercise. He now coaches others in two areas: music (practicing and writing) and health (exercise and the paleo diet). This coaching supplements his income and, according to Rob, also greatly inspires him. You can check out his coaching profile and testimonials from some of his clients here: https://www.coach.me/robkovacs.
+> Rob has a fascinating back story - several years ago, he developed arthritis throughout his body, including his hands. As a pianist, this was threatening his career. After a year of research, he was able to regain his health through diet and exercise. He now coaches others in two areas: music (practicing and writing) and health (exercise and the paleo diet). This coaching supplements his income and, according to Rob, also greatly inspires him. You can check out his coaching profile and testimonials from some of his clients here: https://www.coach.me/robkovacs.
 
-I'd be happy to put you in touch with Rob, Coach.me's founder Tony Stubblebine, or Cleveland-area people who have used the app to reach their goals. Or, if you'd be interesting in having a coach to help you achieve a goal of your own, I can pair you up.
+> I'd be happy to put you in touch with Rob, Coach.me's founder Tony Stubblebine, or Cleveland-area people who have used the app to reach their goals. Or, if you'd be interesting in having a coach to help you achieve a goal of your own, I can pair you up.
 
-Thanks, Michael, for your consideration.
+> Thanks, Michael, for your consideration.
 
-Best,
-Debbie Pfeifer
-(206) 669-0000
-www.coach.me
-In the App Store: http://apple.co/1OY3kHM
+> Best,
+> Debbie Pfeifer
+> (206) 669-0000
+> www.coach.me
+> In the App Store: http://apple.co/1OY3kHM
 
 Pitch to Memeburn - a South African tech site
 
-Hello, Memeburn editors.
+> Hello, Memeburn editors.
 
-I'm writing to introduce you to Willem Van Zyl, a director at a Cape Town digital agency who is also one of the most popular productivity coaches on Coach.me (featured last week as a Top New App by Apple). Willem has worked with dozens of clients around the globe, helping them set and accomplish priorities, wake up on time, tame their email in-boxes, and create effective to-do lists.
+> I'm writing to introduce you to Willem Van Zyl, a director at a Cape Town digital agency who is also one of the most popular productivity coaches on Coach.me (featured last week as a Top New App by Apple). Willem has worked with dozens of clients around the globe, helping them set and accomplish priorities, wake up on time, tame their email in-boxes, and create effective to-do lists.
 
-How does having a coach on your phone work? I think your Memeburn readers would be interested in learning about how hundreds of thousands of people have used Coach.me to accomplish their goals. Willem can also share some of his tips on how to be more productive and get the most out of your day. You can check out Willem's coaching profile here: https://www.coach.me/willemvzyl. I've included some thoughts from Willem as well as a testimonial from one of his clients at the end of this mail.
+> How does having a coach on your phone work? I think your Memeburn readers would be interested in learning about how hundreds of thousands of people have used Coach.me to accomplish their goals. Willem can also share some of his tips on how to be more productive and get the most out of your day. You can check out Willem's coaching profile here: https://www.coach.me/willemvzyl. I've included some thoughts from Willem as well as a testimonial from one of his clients at the end of this mail.
 
-As background, Coach.me (backed by Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for $14.99 a week, choose one-on-one coaching. Coach.me users have achieved goals ranging from fitness to stopping drinking to productivity to meditation.
+> As background, Coach.me (backed by Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for 4.99 a week, choose one-on-one coaching. Coach.me users have achieved goals ranging from fitness to stopping drinking to productivity to meditation.
 
-I'd be happy to provide more information or an introduction to Willem. I can also put you in touch with Coach.me's founder, Tony Stubblebine (based in San Francisco). Thanks for your consideration.
+> I'd be happy to provide more information or an introduction to Willem. I can also put you in touch with Coach.me's founder, Tony Stubblebine (based in San Francisco). Thanks for your consideration.
 
-Best,
-Debbie Pfeifer
-www.coach.me
-(206) 669-0000
-In the App Store: http://apple.co/1OY3kHM
+> Best,
+> Debbie Pfeifer
+> www.coach.me
+> (206) 669-0000
+> In the App Store: http://apple.co/1OY3kHM
 
-"Checking your email regularly is a great way to escalate *other people's priorities*. When we use our inboxes as our to-do lists, we're effectively allowing anyone to add new tasks to our to-do lists at any time. You need to manage your email sensibly so you can work calmly from your own, prioritized to-do list instead of constantly reacting to other people's so-called emergencies."
-- Willem Van Zyl
+> "Checking your email regularly is a great way to escalate *other people's priorities*. When we use our inboxes as our to-do lists, we're effectively allowing anyone to add new tasks to our to-do lists at any time. You need to manage your email sensibly so you can work calmly from your own, prioritized to-do list instead of constantly reacting to other people's so-called emergencies."
+> - Willem Van Zyl
 
-"Since working for myself I started finding it really hard to stay focused during the day. I put off important tasks and procrastinated badly and some days totally avoided work altogether. After three days with Will's advice and support, I had implemented some incredibly powerful strategies, systems and processes into the way i worked, and have to say it has completely changed the way I work. I now produce three times (I've tracked this) more work, consistently."
-- Dan (Coach.me client of Willem's)
+> "Since working for myself I started finding it really hard to stay focused during the day. I put off important tasks and procrastinated badly and some days totally avoided work altogether. After three days with Will's advice and support, I had implemented some incredibly powerful strategies, systems and processes into the way i worked, and have to say it has completely changed the way I work. I now produce three times (I've tracked this) more work, consistently."
+> - Dan (Coach.me client of Willem's)
 
 
 Sample Turnkey Pitch Letter to a Podcast
 
-Hello (Journalist First Name),
+> Hello (Journalist First Name),
 
-I’m writing to introduce myself in the hopes of being a guest on the (NAME) podcast. I’ve been a (AREA) coach for the past (X) months on Coach.me (recently named a Top New App by Apple) and would welcome the opportunity to share my experiences and tips with your listeners.
+> I’m writing to introduce myself in the hopes of being a guest on the (NAME) podcast. I’ve been a (AREA) coach for the past (X) months on Coach.me (recently named a Top New App by Apple) and would welcome the opportunity to share my experiences and tips with your listeners.
 
-I’m (background on what makes you an expert in your area). I’ve coached (a number/dozens) of people around the (country/globe). One thing I’ve found is that (include an interesting fact about what people want to accomplish in this area or what holds them back). In coaching, the most helpful advice I give clients is (TIP). Here’s a link to my profile: (LINK) and I’ve included several testimonials at the end of this mail.
+> I’m (background on what makes you an expert in your area). I’ve coached (a number/dozens) of people around the (country/globe). One thing I’ve found is that (include an interesting fact about what people want to accomplish in this area or what holds them back). In coaching, the most helpful advice I give clients is (TIP). Here’s a link to my profile: (LINK) and I’ve included several testimonials at the end of this mail.
 
-I’d be happy to talk about (give topics of interest to you/listeners) and to share tips on how to (goal related to podcast). I can also talk about how and why having a coach on your phone works. 
+> I’d be happy to talk about (give topics of interest to you/listeners) and to share tips on how to (goal related to podcast). I can also talk about how and why having a coach on your phone works. 
 
-As background, Coach.me (backed by Tim Ferriss and Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for $14.99 a week, choose one-on-one coaching. Coach.me users have achieved goals ranging from fitness to stopping drinking to productivity to meditation.
+> As background, Coach.me (backed by Tim Ferriss and Twitter founders Ev Williams and Biz Stone) offers a combination of free daily reminders, community support and advice. You can also, for 4.99 a week, choose one-on-one coaching. Coach.me users have achieved goals ranging from fitness to stopping drinking to productivity to meditation.
 
-Thank you, (HOST NAME), for your consideration.
+> Thank you, (HOST NAME), for your consideration.
 
-Best,
-NAME
-EMAIL
-CONTACT NUMBER
+> Best,
+> NAME
+> EMAIL
+> CONTACT NUMBER
 
-(If you have testimonials, include them here)
+> (If you have testimonials, include them here)
 
 
 **FOLLOW UP**
@@ -171,16 +169,16 @@ include your name and contact number in your signature
 
 For example:
 
-Hello Hal,
+> Hello Hal,
 
-I wanted to circle back regarding the following message about Coach.me, the online coaching app, and its founder, Tony Stubblebine. Would you be interested in having Tony as a guest?
- 
-Thanks for your consideration.
+> I wanted to circle back regarding the following message about Coach.me, the online coaching app, and its founder, Tony Stubblebine. Would you be interested in having Tony as a guest?
+>  
+> Thanks for your consideration.
 
-Best,
-Debbie Pfeifer
-www.coach.me
-(206) 669-0000
+> Best,
+> Debbie Pfeifer
+> www.coach.me
+> (206) 669-0000
 
 Following up once is perfectly acceptable. More than that is not, unless the reporter expressed initial interest and then dropped off. If the outlet you are pitching has several possible targets (for example, several business columnists), feel free to move on to the next if you don’t hear back. In the case of small publications or podcasts with a single point of contact, you can always try again in 4-6 months with a new angle.
 
