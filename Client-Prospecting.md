@@ -1,8 +1,13 @@
-The first step to great marketing is making sure you’ve got a great product to market. The best way to do that? Ask! 
+The best and most powerful way to get new clients is through your existing network. We call this prospecting.
 
-Can you get advice from one friend about your coaching?
+The classic new-coach mistake is to think that they should start out by marketing on Twitter or Facebook. If you don't have any track record, any followers, or any feedback on your pitch, then there's no way digital marketing is going to work for you.
 
-I'm going to give you a script that always makes your coaching better and always leads to more clients. Steps and script are below.
+The #1 rule of marketing your coaching business is that you need to talk to your friends first. There's two benefits you get. 
+
+A) Your friends and acquaintances are often your most likely clients. They will help you build up a track record.
+B) Talking directly to people will help you learn what sort of coaching is necessary and how you should be describing yourself.
+
+We're going to give you a script that always makes your coaching better and always leads to more clients. Steps and script are below. The script comes from our CEO, Tony, who used it to raise money and get initial clients.
 
 -----------
 
@@ -10,17 +15,17 @@ I started out as one of the shyest people on the planet. When I started working,
 
 But I started from such a shy place, that I know that if I can do sales, anyone can.
 
- 
-
 A couple things to know going in:
 
-**You're not a coach if you don't have clients.** Finding clients is your job. It's not a one-time trick you do. It's a daily responsibility.
+**You're not a coach if you don't have clients. Finding clients is your job. It's not a one-time trick you do. It's a daily responsibility.
 
-**Sales is partly about volume.** That's why sales scripts exist.
+**Sales is partly about volume. That's why sales scripts exist.
 
-**Use your network** (people you're connected to on Facebook and LinkedIn).The script I'm going to share here is for using with people you know. 
+**Use your network (people you're connected to on Facebook and LinkedIn).The script I'm going to share here is for using with people you know. 
 
-**If you can't sell to friends, then you won't be able to sell to strangers.** So this is the script everyone should be starting with.
+**If you can't sell to friends, then you won't be able to sell to strangers.
+
+** So this is the script everyone should be starting with.
 
 It's three parts.
 
@@ -35,19 +40,15 @@ For each of these 14 people, I asked them for advice. I didn't try to sell them.
 
 They're my friends. They're happy to give me advice.
 
- 
-
 **Two. Use this email.**
 
 I use the following email.
 
-
-
-Hi <name>,
-
-I’ve recently joined a community of coaches, Coach.me because I’m starting to coach <topic> online. Do you have 30 minutes to give me some feedback on how you approach your own goals and whether you have ever considered coaching as a way to boost your progress?
-
-Hope you’re well otherwise. <Submit some small talk, i.e. Saw that your son just turned 8, he’s looking so big!>
+> Hi <name>,
+> 
+> I’ve recently joined a community of coaches, Coach.me because I’m starting to coach <topic> online. Do you have 30 minutes to give me some feedback on how you approach your own goals and whether you have ever considered coaching as a way to  boost your progress?
+>
+> Hope you’re well otherwise. <Submit some small talk, i.e. Saw that your son just turned 8, he’s looking so big!>
 
 
 
