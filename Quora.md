@@ -1,8 +1,8 @@
-Quora is an online information sharing platform. 
+These are instructions for how Coaches can get page views for themselves on Quora. 
 
 1) The first step to using Quora is to write. 
 
-Here's something amazing about Quora: it drives traffic for years after you write. I did a lot of writing on Quora in 2014 just for fun. I didn't have any big plans--I just wrote about things that I knew about. Apparently I wrote a lot because they gave me a Top Writer designation and sent me a Quora fleece. I think that I totaled 40 or 50 answers that year. But that's not the amazing part, this is: despite not having written in almost a year, I still get 9,000 views per month on my answers.  
+Here's something amazing about Quora: it drives traffic for years after you write. Tony did a lot of writing on Quora in 2014 just for fun. He didn't have any big plans--he just wrote about things that he knew about. Apparently he wrote a lot because they gave him a Top Writer designation. The amazing part is this: despite not having written in more than a year, Tony still gets 9,000 views per month on his answers.  
 
 9,000 page views per month for not doing any work is pretty good. I think we can do better. The first thing to do is to write:
 
