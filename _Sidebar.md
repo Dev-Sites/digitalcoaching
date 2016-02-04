@@ -43,7 +43,6 @@
 * [PR] (https://github.com/coachdotme/digitalcoaching/wiki/PR)
 * [Quora] (https://github.com/coachdotme/digitalcoaching/wiki/Quora)
 * [Better Humans] (https://github.com/coachdotme/digitalcoaching/wiki/Better-Humans)
-* [Cross Promotion] (https://github.com/coachdotme/digitalcoaching/wiki/Cross-Promotion)
 
 ## Other Frameworks
 
