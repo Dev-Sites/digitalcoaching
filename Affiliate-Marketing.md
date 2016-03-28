@@ -1,4 +1,4 @@
-Everyone Coach.me coach has the opportunity to make money by referring clients into Coach.me. All you need to understand is referral tracking.
+Every Coach.me coach has the opportunity to make money by referring clients into Coach.me. All you need to understand is referral tracking.
 
 There are two ways we track referrals.
 
