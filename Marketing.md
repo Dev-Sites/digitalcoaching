@@ -1,4 +1,3 @@
-## Marketing
 
 ### [Client Prospecting] (https://github.com/coachdotme/digitalcoaching/wiki/Client-Prospecting)
 All coaches should start here with skills for finding clients through your existing friends, colleagues and acquaintances. Think about it this way: if your friends don't trust you enough to recommend you then why would a stranger. More practically--this is the most effective way to find new clients and the best way to get honest feedback about what you're offering.
