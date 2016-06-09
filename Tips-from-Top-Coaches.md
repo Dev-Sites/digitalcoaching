@@ -1,8 +1,6 @@
-A lot of our patterns are based on observing the highest performing coaches. If you're extra motivated, watch this video where you'll hear CEO Tony Stubblebine share their secrets:
+A lot of our patterns are based on observing the highest performing coaches.
 
-https://www.youtube.com/watch?v=uPOiNzfld9w
-
-Here are the top ten tips featured in the training video:
+Here are the top ten tips we've collected from them:
 
 1. The #1 coach on Coach.me is an amateur; learning how to be a great coach online is a different skill set from being a great in-person coach.
 
