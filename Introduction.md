@@ -1,4 +1,4 @@
-## Part 2: The Momentum Framework
+## The Momentum Framework
 
 Our philosophy is to coach the habit first, and then to coach for growth later. This pattern of habit-first coaching is the best fit for digital coaching. 
 
