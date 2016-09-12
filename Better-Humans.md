@@ -7,4 +7,4 @@ Here's why you should write for Better Humans:
 
 Take a look at the content here: https://medium.com/better-humans
 
-If you'd like to write for Better Humans, fill out our contributor form here: https://coachdotme.typeform.com/to/XxBF5R
+If you'd like to write for Better Humans, fill out a contributor form: https://coachdotme.typeform.com/to/XxBF5R
