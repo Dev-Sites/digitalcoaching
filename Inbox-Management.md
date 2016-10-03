@@ -7,7 +7,7 @@ Everyone should have a process for managing their inbox (and Slack/IM/Pivotal) t
 * Batch email (Secondary: assign this if communications are a distraction.)
 * Turn off email (Secondary: assign this if communications are a distraction and the client does not need instant availability.)
 
-Common Questions and Prompts
+### Common Questions and Prompts
 
 * How many times per day do you check email? Is this the right number?
 * Are you interrupted during maker time? Can you reduce this?
