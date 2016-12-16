@@ -8,4 +8,4 @@ These are the main potential outcomes:
 
 **3. Allow for a true goodbye:** you've done your work and your client has truly graduated. 
 
-**5. Go into maintenance mode.** In this period, 90% of your value will be in holding the client accountable. Occasionally you may spot room for improvements, but mostly you'll just be an external source of  motivation.
+**4. Go into maintenance mode.** In this period, 90% of your value will be in holding the client accountable. Occasionally you may spot room for improvements, but mostly you'll just be an external source of  motivation.
