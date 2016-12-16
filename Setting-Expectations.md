@@ -1,6 +1,6 @@
 We've noticed an anti-pattern where many coaches (more than half) struggled to communicate clearly when they had to share something that didn't seem like good news for the client.
 
-In most cases of this anti-pattern, the coach was avoiding a topic or was refusing to give a clear answer. For example, coaches have to sleep sometime. So if I client asks you to check in with them at 3am your time, your answer should come easily and clearly:
+In most cases of this anti-pattern, the coach was avoiding a topic or was refusing to give a clear answer. For example, coaches have to sleep sometime. So if a client asks you to check in with them at 3am your time, your answer should come easily and clearly:
 
 >“I can’t check in with you at that time because that is outside of my work hours."
 
