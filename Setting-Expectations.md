@@ -43,12 +43,11 @@ If you need to go on an extended vacation (longer than 3 days) and won't be tend
 
 1. Set your profile to not accept new chat or phone clients. This won't affect the clients you have, but it will prevent new sign-ups while you're away. Then just turn it back on when you return.
 2. Communicate your coaching plans clearly to your clients. Are you going to check in with them occasionally or not at all?  
-
-If you're going to be away for more than three days, we can apply a coupon to their account to give them credit on their next bill.  Contact us at coaching@coach.me with the details for assistance.
+3. Pause coaching for clients. Here's how to do that: http://training.coach.me/article/173-pause
 
 Here's an example of a message that you can send to your clients:
 
->Good morning! A bit of planning to share with you first: I'm going on vacation next week. I'll be leaving Sunday, March 31 and will be out until I return on Monday, April 8. Coach.me is going to apply a coupon to your account so you'll get a free week on your next invoice. You won't hear anything from me during that time, but please continue to check in and leave any notes or questions here in chat for me—I'll review them and get back to you when I return!
+>Good morning! A bit of planning to share with you first: I'm going on vacation next week. I'll be leaving Sunday, March 31 and will be out until I return on Monday, April 8. I've paused your coaching so you won't be billed during this time, and it will move your billing period forward by the same number of days. You won't hear anything from me during that time, but please continue to check in and leave any notes or questions here in chat for me—I'll review them and get back to you when I return!
 
 ## Situation 3: You want to stop coaching your client
 
